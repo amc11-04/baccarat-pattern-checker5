@@ -1,0 +1,1 @@
+# baccarat-pattern-checker5
